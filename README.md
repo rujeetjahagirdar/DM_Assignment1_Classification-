@@ -1,5 +1,7 @@
 # DM_Assignment1_Classification-
 
+Final File: playground4-basic-4layer-hyperparamsprntfrmt_AlLyrs_ExprmntCmnts.ipynb
+
 How to Run this Notebook file:
 1. Download the data from following Kaggle link:
   https://www.kaggle.com/datasets/maricinnamon/caltech101-airplanes-motorbikes-schooners 
